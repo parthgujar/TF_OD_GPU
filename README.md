@@ -1,6 +1,14 @@
 # nvidia-docker based tensorflow-gpu object detection using transfer learning
 
 
+## Quick
+https://hub.docker.com/r/tfgpu/od/
+```
+nvidia-docker run -it -p 6006:6006 -p 8888:8888 -d tfgpu/od:1
+```
+
+## Detailed
+
 a. Make sure that You have nvidia-docker https://github.com/NVIDIA/nvidia-docker
   installed as per the latest version on github
 
