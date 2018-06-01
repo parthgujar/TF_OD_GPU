@@ -1,4 +1,4 @@
-# nvidia-docker based tensorflow-gpu object detection using transfer learning
+# nvidia-docker based tensorflow-gpu object detection using transfer learning on Google Cloud Platform / Locally
 
 
 ## Quick
